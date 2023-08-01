@@ -9,37 +9,41 @@
 [![GitHub issues](https://img.shields.io/github/issues/marcoteran/progfund?color=%23fa251e&logo=GitHub)](https://github.com/marcoteran/progfund/issues)
 ![Twitter Follow](https://img.shields.io/twitter/follow/marcotulioteran?style=social)
 </div>
----
 
+---
 ## Descripción del curso
 Esta asignatura proporciona los fundamentos requeridos para el desarrollo de **soluciones IoT** propias, desde la adquisición de datos (sensores), pasando por la interfaz y cómputo (sistema embebido), conectividad a la red (Internet) y finalizando en el análisis de datos (procesamiento en la *“nube”* y visualización en la Web).
 
 #### Información de contacto:
 * **Profesor:** [Marco Teran](https://marcoteran.github.io/)
-* **Telegram group:** [https://t.me/+DBMddxwzR-w5NDI5](https://t.me/+DBMddxwzR-w5NDI5)
+
 ---
 
 ## Contenido
-0. **Presentación del curso *Introducción al Internet de las Cosas***
-	* Descargar presentación [[PDF]](https://github.com/marcoteran/progfund/raw/master/lectures/00_automation_syllabus.pdf)
-1. **Introducción al Internet de las Cosas**
-	* Descargar presentación [[PDF]](https://github.com/marcoteran/progfund/raw/master/lectures/01_automation_introduction.pdf)
+0. **Presentación del curso *Fundamentos de programación***
+1. **Introducción al Pensamiento computacional**
+	* Descargar presentación [[PPT]](https://github.com/marcoteran/progfund/raw/master/lectures/sesion_1.pptx)
 
+2. **Fundamentos de Python** [[PPT]](https://github.com/marcoteran/progfund/raw/master/lectures/sesion_2.pptx)
+	* IPython Notebooks:
+		- Notebook Introducción a Jupyter [[descargar]](https://github.com/marcoteran/progfund/blob/master/laboratory/notebooks/01_progfund_jupyterintroduction.ipynb)
+			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/progfund/blob/master/laboratory/notebooks/01_progfund_jupyterintroduction.ipynb)
+		- Notebook Example [[descargar]](https://github.com/marcoteran/progfund/blob/master/laboratory/notebooks/02_progfund_notebookexample.ipynb)
+			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/progfund/blob/master/laboratory/notebooks/02_progfund_notebookexample.ipynb)
+		- Notebook Curso corto de Python [[descargar]](https://github.com/marcoteran/progfund/blob/master/laboratory/notebooks/03_progfund_pythoncrashcourse.ipynb)
+			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/progfund/blob/master/laboratory/notebooks/03_progfund_pythoncrashcourse.ipynb)
+		- Notebook Cargando archivos en Python [[descargar]](https://github.com/marcoteran/progfund/blob/master/laboratory/notebooks/04_progfund_pythonloadingfiles.ipynb)
+			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/progfund/blob/master/laboratory/notebooks/04_progfund_pythonloadingfiles.ipynb)
+		- Notebook Python Homework [[descargar]](https://github.com/marcoteran/progfund/blob/master/laboratory/notebooks/05_progfund_pythoncrashcoursehomework.ipynb)
+			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/progfund/blob/master/laboratory/notebooks/05_progfund_pythoncrashcoursehomework.ipynb)
 
----		
-## Laboratorios
 
 
 ---
-## Certificados
+## Certificados Kaggle
 1. **Primer corte**
-	* <sub>Introduction to Packet Tracer</sub>
-2. **Segundo corte**
-	* <sub>Introduction to IoT</sub>
-	* <sub>NDG Linux Unhatched</sub>
-3. **Tercer corte**
-	* <sub>Cybersecurity Essentials</sub>
-	* <sub>NDG Linux Essentials</sub>
+	* <sub>Intro to Programming</sub>
+	* <sub>Python</sub>
 
 ---
 ## Material adicional
