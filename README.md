@@ -26,21 +26,29 @@ Esta asignatura proporciona los fundamentos requeridos para el desarrollo de **s
 
 2. **Fundamentos de Python** [[PPT]](https://github.com/marcoteran/progfund/raw/master/lectures/sesion_2.pptx)
 	* IPython Notebooks:
-		- Notebook Introducción a Jupyter [[descargar]](https://github.com/marcoteran/progfund/blob/master/laboratory/notebooks/01_progfund_jupyterintroduction.ipynb)
+		1. Notebook Introducción a Jupyter [[descargar]](https://github.com/marcoteran/progfund/blob/master/laboratory/notebooks/01_progfund_jupyterintroduction.ipynb)
 			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/progfund/blob/master/laboratory/notebooks/01_progfund_jupyterintroduction.ipynb)
-		- Notebook Example [[descargar]](https://github.com/marcoteran/progfund/blob/master/laboratory/notebooks/02_progfund_notebookexample.ipynb)
-			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/progfund/blob/master/laboratory/notebooks/02_progfund_notebookexample.ipynb)
-		- Notebook Curso corto de Python [[descargar]](https://github.com/marcoteran/progfund/blob/master/laboratory/notebooks/03_progfund_pythoncrashcourse.ipynb)
-			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/progfund/blob/master/laboratory/notebooks/03_progfund_pythoncrashcourse.ipynb)
-		- Notebook Cargando archivos en Python [[descargar]](https://github.com/marcoteran/progfund/blob/master/laboratory/notebooks/04_progfund_pythonloadingfiles.ipynb)
-			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/progfund/blob/master/laboratory/notebooks/04_progfund_pythonloadingfiles.ipynb)
-		- Notebook Python Homework [[descargar]](https://github.com/marcoteran/progfund/blob/master/laboratory/notebooks/05_progfund_pythoncrashcoursehomework.ipynb)
+		2. Notebook Tipos de datos en Python [[descargar]](https://github.com/marcoteran/progfund/blob/master/laboratory/notebooks/02_progfund_pythondatatypes.ipynb)
+			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/progfund/blob/master/laboratory/notebooks/02_progfund_pythondatatypes.ipynb)
+		3. Notebook Lógica booleana [[descargar]](https://github.com/marcoteran/progfund/blob/master/laboratory/notebooks/03_progfund_logic.ipynb)
+			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/progfund/blob/master/laboratory/notebooks/03_progfund_logic.ipynb)
+		4. Notebook Secuencias de control y ciclos [[descargar]](https://github.com/marcoteran/progfund/blob/master/laboratory/notebooks/04_progfund_controlcycles.ipynb)
+			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/progfund/blob/master/laboratory/notebooks/04_progfund_controlcycles.ipynb)
+		5. Notebook Funciones [[descargar]](https://github.com/marcoteran/progfund/blob/master/laboratory/notebooks/05_progfund_functions.ipynb)
+			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/progfund/blob/master/laboratory/notebooks/05_progfund_functions.ipynb)
+		6. Notebook Python Laboratory [[descargar]](https://github.com/marcoteran/progfund/blob/master/laboratory/notebooks/05_progfund_pythoncrashcoursehomework.ipynb)
 			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/progfund/blob/master/laboratory/notebooks/05_progfund_pythoncrashcoursehomework.ipynb)
+			*  [**[cargar]**](https://forms.office.com/) <sub>**(*deadline:* 04.08.2023)**</sub>
+
 
 
 
 ---
 ## Certificados Kaggle
+
+Kaggle es una plataforma en línea que reúne a científicos de datos, analistas y entusiastas del aprendizaje automático para colaborar en desafíos, competencias y proyectos relacionados con datos. También ofrece la Kaggle Academy, una sección educativa para aprender sobre ciencia de datos y aprendizaje automático.
+[**Kaggle Academy**](https://www.kaggle.com/learn)
+
 1. **Primer corte**
 	* <sub>Intro to Programming</sub>
 	* <sub>Python</sub>
