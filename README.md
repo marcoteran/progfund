@@ -41,7 +41,7 @@ Esta asignatura proporciona los fundamentos requeridos para el desarrollo de **s
 			*  [**[cargar]**](https://forms.office.com/) <sub>**(*deadline:* 2.09.2023)**</sub>
 
 	* Taller Estructuras de control y repetición [[Descargar]](https://github.com/marcoteran/progfund/raw/master/homeworks/progfund_ttq_basic.pdf)
-			-  [**[cargar]**](https://forms.office.com/) <sub>**(*deadline:* 29.08.2023)**</sub>
+		- [**[cargar]**](https://forms.office.com/) <sub>**(*deadline:* 29.08.2023)**</sub>
 
 
 
