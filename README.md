@@ -38,10 +38,9 @@ Esta asignatura proporciona los fundamentos requeridos para el desarrollo de **s
 			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/progfund/blob/master/laboratory/notebooks/05_progfund_functions.ipynb)
 		6. Notebook Python Laboratory [[descargar]](https://github.com/marcoteran/progfund/blob/master/laboratory/notebooks/05_progfund_pythoncrashcoursehomework.ipynb)
 			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/progfund/blob/master/laboratory/notebooks/05_progfund_pythoncrashcoursehomework.ipynb)
-			*  [**[cargar]**](https://forms.office.com/) <sub>**(*deadline:* 2.09.2023)**</sub>
 
 	* Taller Estructuras de control y repetición [[Descargar]](https://github.com/marcoteran/progfund/raw/master/homeworks/progfund_ttq_basic.pdf)
-		- [**[cargar]**](https://forms.office.com/) <sub>**(*deadline:* 29.08.2023)**</sub>
+		- [**[cargar]**](https://forms.office.com/r/9zTfJUSEHJ) <sub>**(*deadline:* 01.09.2023)**</sub>
 
 
 
@@ -52,8 +51,10 @@ Kaggle es una plataforma en línea que reúne a científicos de datos, analistas
 [**Kaggle Academy**](https://www.kaggle.com/learn)
 
 1. **Primer corte**
-	* <sub>Intro to Programming</sub>
-	* <sub>Python</sub>
+	* Intro to Programming
+		- [**[cargar]**](https://forms.office.com/r/bmYC3nB39C) <sub>**(*deadline:* 01.09.2023)**</sub>
+	* Python
+		- [**[cargar]**](https://forms.office.com/r/yVaVNndVqz) <sub>**(*deadline:* 01.09.2023)**</sub>
 
 ---
 ## Material adicional
