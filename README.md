@@ -42,6 +42,8 @@ Esta asignatura proporciona los fundamentos requeridos para el desarrollo de **s
 	* Taller Estructuras de control y repetición [[Descargar]](https://github.com/marcoteran/progfund/raw/master/homeworks/progfund_ttq_basic.pdf)
 		- [**[cargar]**](https://forms.office.com/r/9zTfJUSEHJ) <sub>**(*deadline:* 01.09.2023)**</sub>
 
+	* **NUEVO:** Proyecto de primer corte
+		- [**[cargar]**](https://forms.office.com/r/t5GCvKKrnn) <sub>**(*deadline:* 02.09.2023)**</sub>
 
 
 ---
